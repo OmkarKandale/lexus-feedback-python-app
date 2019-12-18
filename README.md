@@ -70,6 +70,8 @@ python -v
 create requirements.txt file using
 pip freeze > requirements.txt
 
+touch runtime.txt
+
 create a local git repository
 git add .
 add comment to the repository
